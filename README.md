@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello world! I'm Adrián
 
-![https://github.com/adridiazvic](./banner_github.png)
+![https://github.com/adridiazvic](./banner_android_flutter.png)
 
 🎓 Junior Mobile Developer | Higher Technician in Multiplatform App Development  
 📱 Passionate about creating mobile apps using **Flutter** and **Android**  
