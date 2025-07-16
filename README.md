@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there! I'm Adrián
+
+🎓 Junior Mobile Developer | Higher Technician in Multiplatform App Development  
+📱 Passionate about creating mobile apps using **Flutter** and **Android**  
+🚀 Always learning and building — this is just the beginning
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Dart, Kotlin, Java
+- **Frameworks & Tools:** Flutter, Android Studio, Visual Studio Code, Firebase, Git, Java Swing, JavaFX
+- **Databases:** Firestore, Realtime Database, SQLite, Room  
+- **Other:** BLoC, MVVM, REST APIs, Material Design, POO, Hilt
+
+---
+
+## 📱 Featured Projects
+
+- 🔹 **Cifras y Letras** – Real-time online multiplayer game for Android, developed as the final project during my studies  
+- 🔹 **Dragon Ball App** – Flutter app developed during my internship  
+
+---
+
+## 🌱 Currently
+
+- Looking for my **first job opportunity** as a mobile developer  
+- Working on personal projects and constantly learning
+
+---
+
+> *"This is just the beginning 🚀"*
