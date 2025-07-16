@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Languages:** Dart, Kotlin, Java
 - **Frameworks & Tools:** Flutter, Android Studio, Visual Studio Code, Firebase, Git, Java Swing, JavaFX
 - **Databases:** Firestore, Realtime Database, SQLite, Room  
-- **Other:** BLoC, MVVM, REST APIs, Material Design, POO, Hilt
+- **Other:** BLoC, MVVM, REST APIs, Material Design, OOP, Hilt
 
 ---
 
