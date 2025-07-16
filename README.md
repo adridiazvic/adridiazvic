@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 ![https://github.com/adridiazvic](./banner_android_flutter.png)
 
+---
+
+## 👨‍💻 About Me
+
 🎓 Junior Mobile Developer | Higher Technician in Multiplatform App Development  
 📱 Passionate about creating mobile apps using **Flutter** and **Android**  
 🚀 Always learning and building — this is just the beginning
