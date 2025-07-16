@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **adridiazvic/adridiazvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there! I'm Adrián
+# 👋 Hello world! I'm Adrián
 
 🎓 Junior Mobile Developer | Higher Technician in Multiplatform App Development  
 📱 Passionate about creating mobile apps using **Flutter** and **Android**  
