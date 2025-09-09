@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,java,firebase,git,github,vscode,androidstudio)](https://skillicons.dev)
 
 - **Languages:** Dart, Kotlin, Java
-- **Frameworks & Tools:** Flutter, Jetpack Compose, Android Studio, Visual Studio Code, Firebase, Git, GitHub, Java Swing, JavaFX
+- **Frameworks:** Flutter, Jetpack Compose, XML Layouts, Java Swing, JavaFX
+- **Tools:** Flutter, Jetpack Compose, Android Studio, Visual Studio Code, Firebase, Git, GitHub, Java Swing, JavaFX
 - **Databases:** Firestore, Realtime Database, SQLite, Room, Isar
 - **Other:** BLoC, MVVM, WebAPI (REST, JSON), Material Design, OOP, Hilt, Geolocation
 
@@ -41,17 +42,43 @@ Here are some ideas to get you started:
 
 ## 📱 Featured Projects
 
-- 🔹 **Cifras y Letras** – Real-time online multiplayer game for Android, developed as the final project during my studies.
+### NOW (Not finished yet)
+
+- 🔹 **MovieSeriesDB** – Flutter app developed to improving my skills.
         </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Kotlin, Jetpack Compose, Android Studio, Firebase, Git, GitHub, Room, MVVM, Hilt```
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Git``` ```GitFlow``` ```GitHub``` ```Drift``` ```BLoC``` ```WebAPI (REST, JSON)``` ```GetIt```
         </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1JP-cXMV2ujLgIeeokn2Jr3GyyEDVMp59/view?usp=sharing)
-  </br></br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo (provisional)](https://drive.google.com/file/d/1McsA9mkZJ3I0LLqcI-RwOx4hQBlKkUns/view?usp=sharing) </br>
+
+### 2025
+
 - 🔹 **Dragon Ball App** – Flutter app developed during my internship.
         </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart, Flutter, VSCode, Firebase, Git, GitHub, Isar, BLoC, WebAPI (REST, JSON), Material Design, Geolocation```
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Firebase``` ```Git``` ```GitHub``` ```Isar``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Material Design``` ```Geolocation```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1Hm3WpXAb528t3gKmUGe3e71QXHgjnG0g/view?usp=sharing) </br>
+  </br>
+- 🔹 **Cifras y Letras** – Real-time online multiplayer game for Android, developed as the final project during my studies.
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Kotlin``` ```Jetpack Compose``` ```Android Studio``` ```Firebase``` ```Git``` ```GitHub``` ```Room``` ```MVVM``` ```Hilt```
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1JP-cXMV2ujLgIeeokn2Jr3GyyEDVMp59/view?usp=sharing) </br>
+
+### 2024
+
+- 🔹 **DinnoRunner** – Android app developed as a homework project during my studies, consisting of a game built without frameworks, using only game loop logic.
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Java``` ```XML Layouts``` ```Android Studio``` ```Shared Preferences```
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1MfnuvHhR6hCHY2_n0ikL4dTBWNF_A670/view?usp=sharing) </br>
+
+### 2023
+
+- 🔹 **Buscabastos** – A Minesweeper-style game developed during my studies.
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Java``` ```XML Layouts``` ```Android Studio```
+        </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1ys48ns6VwK_aVwYwJ-k0VoZfsCW0ZuO2/view?usp=sharing) </br>
 
 ---
 
