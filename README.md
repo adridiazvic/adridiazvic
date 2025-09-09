@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello world! I'm Adrián
+# 👋 Welcome to my GitHub!
 
-![https://github.com/adridiazvic](./flutter_banner.png)
+![https://github.com/adridiazvic](./github-header-banner.png)
 
 ---
 
