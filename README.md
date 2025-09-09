@@ -32,11 +32,17 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,java,firebase,git,github,vscode,androidstudio)](https://skillicons.dev)
 
-- **Languages:** Dart, Kotlin, Java
-- **Frameworks:** Flutter, Jetpack Compose, XML Layouts, Java Swing, JavaFX
-- **Tools:** Flutter, Jetpack Compose, Android Studio, Visual Studio Code, Firebase, Git, GitHub, Java Swing, JavaFX
-- **Databases:** Firestore, Realtime Database, SQLite, Room, Isar
-- **Other:** BLoC, MVVM, WebAPI (REST, JSON), Material Design, OOP, Hilt, Geolocation
+- **Languages:** ```Dart``` ```Kotlin``` ```Java```
+- **Multiplatform Mobile Development:** ```Flutter``` ```BLoC``` ```GetIt``` ```Drift``` ```Isar``` ```GoRouter``` ```Dio``` ```i18n``` ```Geolocation``` ```FlutterMap``` ```Lotties```
+- **Android Native:** ```Jetpack Compose``` ```XML Layouts``` ```Room``` ```WorkManager``` ```Hilt``` ```Coroutines```
+- **Desktop Development:** ```JavaFX``` ```Java Swing```
+- **Architecture and Design Pattern:** ```MVVM``` ```Clean Architecture``` ```SOLID principles```
+- **Data Management:** ```SQLite``` ```SharedPreferences``` ```DataStore``` ```Firestore``` ```Realtime Database```
+- **APIs and Network:** ```WebAPI (REST, JSON)``` ```Retrofit```
+- **Version control:** ```Git``` ```GitFlow``` ```GitHub```
+- **Others:** ```Material Design``` ```Firebase Authentication```
+
+
 
 ---
 
@@ -46,7 +52,7 @@ Here are some ideas to get you started:
 
 - 🔹 **MovieSeriesDB** – Flutter app developed to improving my skills.
         </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Git``` ```GitFlow``` ```GitHub``` ```Drift``` ```BLoC``` ```WebAPI (REST, JSON)``` ```GetIt```
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Git``` ```GitFlow``` ```GitHub``` ```Drift``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Dio```  ```GoRouter``` ```GetIt``` ```i18n```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo (provisional)](https://drive.google.com/file/d/1McsA9mkZJ3I0LLqcI-RwOx4hQBlKkUns/view?usp=sharing) </br>
 
@@ -54,7 +60,7 @@ Here are some ideas to get you started:
 
 - 🔹 **Dragon Ball App** – Flutter app developed during my internship.
         </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Firebase``` ```Git``` ```GitHub``` ```Isar``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Material Design``` ```Geolocation```
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Firebase``` ```Git``` ```GitHub``` ```Isar``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Dio```  ```GoRouter``` ```Material Design``` ```Geolocation``` ```i18n```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1Hm3WpXAb528t3gKmUGe3e71QXHgjnG0g/view?usp=sharing) </br>
   </br>
