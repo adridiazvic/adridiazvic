@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🎓 Junior Mobile Developer | Higher Technician in Multiplatform App Development.  
 📱 Passionate about creating mobile apps using **Flutter** and **Android**.  
-🚀 Always learning and building — this is just the beginning.
+🚀 Always learning and building.
 
 ---
 
@@ -42,30 +42,27 @@ Here are some ideas to get you started:
 - **Version control:** ```Git``` ```GitFlow``` ```GitHub```
 - **Others:** ```Material Design``` ```Firebase Authentication```
 
-
-
 ---
 
 ## 📱 Featured Projects
 
-### NOW (Not finished yet)
-
-- 🔹 **MovieSeriesDB** – Flutter app developed to improving my skills.
-        </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Git``` ```GitFlow``` ```GitHub``` ```Drift``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Dio```  ```GoRouter``` ```GetIt``` ```i18n```
-        </br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo (provisional)](https://drive.google.com/file/d/1McsA9mkZJ3I0LLqcI-RwOx4hQBlKkUns/view?usp=sharing) </br>
-
 ### 2025
 
-- 🔹 **Dragon Ball App** – Flutter app developed during my internship.
+- 🔹 **MovieSeriesDB** – Flutter app developed to improving my skills.Mobile application built with **Flutter** to explore movies and TV shows using [The Movie Database (TMDb)](https://www.themoviedb.org/) API. It allows users to search, discover by categories, manage a personal watchlist, and check streaming availability.</br>
+📢 *Currently in closed testing phase. Public release coming soon on the **Google Play Store**. Available on **September 14, 2025.***
+        </br></br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Git``` ```GitFlow``` ```GitHub``` ```Drift``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Dio```  ```GoRouter``` ```GetIt``` ```i18n```
         </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1JWgyeTqQEGCclOzib0ByweB6oEcf9F0a/view?usp=sharing) </br>
+   </br>
+- 🔹 **Dragon Ball App** – Flutter app developed during my internship.
+        </br></br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Dart``` ```Flutter``` ```VSCode``` ```Firebase``` ```Git``` ```GitHub``` ```Isar``` ```BLoC``` ```WebAPI (REST, JSON)``` ```Dio```  ```GoRouter``` ```Material Design``` ```Geolocation``` ```i18n```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1Hm3WpXAb528t3gKmUGe3e71QXHgjnG0g/view?usp=sharing) </br>
   </br>
 - 🔹 **Cifras y Letras** – Real-time online multiplayer game for Android, developed as the final project during my studies.
-        </br>
+        </br></br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Kotlin``` ```Jetpack Compose``` ```Android Studio``` ```Firebase``` ```Git``` ```GitHub``` ```Room``` ```MVVM``` ```Hilt```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1JP-cXMV2ujLgIeeokn2Jr3GyyEDVMp59/view?usp=sharing) </br>
@@ -73,7 +70,7 @@ Here are some ideas to get you started:
 ### 2024
 
 - 🔹 **DinnoRunner** – Android app developed as a homework project during my studies, consisting of a game built without frameworks, using only game loop logic.
-        </br>
+        </br></br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Java``` ```XML Layouts``` ```Android Studio``` ```Shared Preferences```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1MfnuvHhR6hCHY2_n0ikL4dTBWNF_A670/view?usp=sharing) </br>
@@ -81,7 +78,7 @@ Here are some ideas to get you started:
 ### 2023
 
 - 🔹 **Buscabastos** – A Minesweeper-style game developed during my studies.
-        </br>
+        </br></br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```Java``` ```XML Layouts``` ```Android Studio```
         </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Watch Demo](https://drive.google.com/file/d/1ys48ns6VwK_aVwYwJ-k0VoZfsCW0ZuO2/view?usp=sharing) </br>
@@ -90,9 +87,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently
 
-- Looking for my **first job opportunity** as a mobile developer.  
+- Looking for a **job opportunity** as a mobile developer.  
 - Working on personal projects and constantly learning.
 
----
 
-> *"This is just the beginning. 🚀"*
