@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Adrián 👋
 
-![https://github.com/adridiazvic](./github_banner_v4.0.0.png)
+![https://github.com/adridiazvic](./black_banner.png)
 
 ---
 
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently
 
-- Looking for a **job opportunity** as a mobile developer.  
+- Looking for a **job opportunity** as a Flutter or Android developer.  
 - Working on personal projects and constantly learning.
 
 
